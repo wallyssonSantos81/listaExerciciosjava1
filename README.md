@@ -1,2 +1,1 @@
-# curso_loiane_java
-Curso loiane Java
+# Lista de Exercicios Java 01
